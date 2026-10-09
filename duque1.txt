@@ -1,0 +1,3 @@
+HOLA MUNDO P 
+
+Comando para cambiar de rama  "git switch <nombre_de_la_rama>"
